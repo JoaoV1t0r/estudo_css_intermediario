@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    padding: 10px 20px 0px 20px;
+    background: url(../img/arredondamento-com-imagens/topo2.png) no-repeat left top;
+}
+.caixa{
+    width: 400px;
+    background: #dedede url(../img/arredondamento-com-imagens/fundo-arredondamento.png) repeat-y ;
+    /* padding: 10px 20px 0px 20px; */
+}
+.caixa p{
+    padding: 0px 20px 20px 20px;
+    background: url(../img/arredondamento-com-imagens/baixo2.png) no-repeat bottom left;
+
+}

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    height: 100%;
+    color:#777;
+    font: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    text-transform: uppercase;
+    color: #111;
+    text-align: center;
+}
+.conteudo{
+    color: #777;
+    background-color: white;
+    text-align: center;
+    padding: 50px 80px;
+}
+.caixa1, .caixa2{
+    
+    height: 100%;
+    width: 100%;
+}
+.caixa1{
+    background-image: url(../img/img-parallax-part1/imagem1.jpg ) ;
+}
+.caixa2{
+    background-image: url(../img/img-parallax-part1/imagem2.jpg );
+}

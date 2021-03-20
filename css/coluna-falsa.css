@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f2f2f2;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+img.img-news{
+    width: 90%;
+    padding: 2px;
+}
+#main{
+    /* max-width: 960px; */
+    min-width: 820px;
+    width: 960px;
+    margin: 0 auto;
+    background: #fff url(../img/coluna-falsa/coluna.png) repeat-y  left top;
+}
+#mark{
+    width: 100%;
+    height: 200px;
+    background: #225992 url(../img/imagens-liquidas/cabecalho2.jpg) no-repeat center;
+    text-align: center;
+    line-height:200px;
+}
+#content{
+    width: 75%;
+    float: right;
+}
+#first-content{
+    width: 63%;
+    float: left;
+}
+#natural{
+    width: 90%;
+
+}
+#second-content{
+    width: 34%;
+    float: right;
+    background: #d1d1d1;
+    margin-bottom: 10px;
+    
+}
+#navegation{
+    text-align: center;
+    width: 23%;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #d1d1d1;
+}
+#footer{
+    text-align: center;
+    background: #c4c4c4;
+    padding: 5px;
+    clear: both;
+}
